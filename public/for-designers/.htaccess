@@ -1,0 +1,7 @@
+RewriteBase /
+RewriteOptions InheritDown
+
+RewriteRule ^(marjan|css|fonts|img|js|mjform.js|mjform.php|backup.zip)($|/) - [L]
+
+RewriteRule    ^([A-Za-z0-9-]+)/([^/]+)/?$      index.php?page=$1    [NC,L,QSA]
+RewriteRule    ^([^/]+)/?$  					 index.php?page=$1    [NC,L,QSA]

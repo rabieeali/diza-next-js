@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.795" height="140.898" viewBox="0 0 60.795 140.898">
+  <g id="_4" data-name="4" transform="translate(-200.602 -3180.602)">
+    <line id="Line_36" data-name="Line 36" y1="44.671" transform="translate(230.5 3276.829)" fill="none" stroke="#3c3c3c" stroke-width="1"/>
+    <g id="shipping" transform="translate(200.602 3180.602)">
+      <path id="Path_82" data-name="Path 82" d="M27.865,14.9a1.905,1.905,0,0,0-1.9-1.9h-9.5v7.6a2.533,2.533,0,1,1-5.066,0V13H1.9A1.9,1.9,0,0,0,0,14.9V38.965a1.9,1.9,0,0,0,1.9,1.9H25.965a1.905,1.905,0,0,0,1.9-1.9Z" transform="translate(0 19.931)" fill="#2c2c2c"/>
+      <path id="Path_83" data-name="Path 83" d="M40.865,14.9a1.905,1.905,0,0,0-1.9-1.9h-9.5v7.6a2.533,2.533,0,0,1-5.066,0V13H14.9A1.9,1.9,0,0,0,13,14.9V38.965a1.9,1.9,0,0,0,1.9,1.9H38.965a1.905,1.905,0,0,0,1.9-1.9Z" transform="translate(19.931 19.931)" fill="#2c2c2c"/>
+      <path id="Path_84" data-name="Path 84" d="M34.365,1.9a1.907,1.907,0,0,0-1.9-1.9h-9.5V7.6a2.533,2.533,0,0,1-5.066,0V0H8.4A1.905,1.905,0,0,0,6.5,1.9V25.965a1.9,1.9,0,0,0,1.9,1.9H32.465a1.905,1.905,0,0,0,1.9-1.9Z" transform="translate(9.965)" fill="#2c2c2c"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182.965" height="230.067" viewBox="0 0 182.965 230.067">
+  <g id="diza" transform="translate(0)">
+    <path id="Path_29" data-name="Path 29" d="M357.943,396.791h-4.6V259.669h9.21V387.131a21.97,21.97,0,0,0,17.314-21.438V261.4a21.95,21.95,0,0,0-21.919-21.919H333.67v-9.21h24.273A31.159,31.159,0,0,1,389.071,261.4V365.693a31.159,31.159,0,0,1-31.129,31.1Z" transform="translate(-333.67 -167.573)" fill="#fff"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="9.21" height="167.902" transform="translate(66.657 62.165)" fill="#fff"/>
+    <path id="Path_30" data-name="Path 30" d="M449.22,396.821H418.01L443.8,239.48H423.433v-9.21h31.21L428.857,387.612H449.22Z" transform="translate(-331.705 -167.573)" fill="#fff"/>
+    <path id="Path_31" data-name="Path 31" d="M493.113,395.593H483.9V239.48h-5.342a5.342,5.342,0,0,0-5.342,5.342V395.593h-9.21V244.821a14.572,14.572,0,0,1,14.551-14.551h14.551Z" transform="translate(-330.634 -167.573)" fill="#fff"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="44.984" height="9.21" transform="translate(137.981 112.798)" fill="#fff"/>
+    <path id="Path_32" data-name="Path 32" d="M422.233,206.3c-24.62,0-51.1-5.843-51.1-18.655S397.6,169,422.233,169s51.093,5.823,51.093,18.644S446.844,206.3,422.233,206.3Zm0-28.11c-27.475,0-41.29,6.877-41.9,9.5.614,2.528,14.428,9.4,41.9,9.4s41.136-6.8,41.883-9.445c-.747-2.65-14.561-9.435-41.883-9.435Z" transform="translate(-332.798 -169)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+{
+    "short_name": "Diza",
+    "name": "Diza PWA",
+    "display": "standalone",
+    "icons": [{
+       "src": "img/icon-192.png",
+	   "type": "image/png",
+       "sizes": "192x192"},
+    {
+       "src": "img/icon-512.png",
+	   "type": "image/png",
+       "sizes": "512x512"}
+    ],
+	"theme_color": "#a1b7a1",
+	"start_url": "/",
+	"scope": "/"
+ }
